@@ -2,7 +2,7 @@
 
 *Commit nhầm thì rebase.*
 
-*Nhưng ảnh dìm tôi chụp*
+*Nhưng ảnh dìm tao up*
 
 **Là forever."**
 
